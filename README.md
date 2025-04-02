@@ -1,5 +1,5 @@
 # ICML_rebuttal
 
 
-- Responses to **Reviewer A**: [a.md](a.md)  
-- Responses to **Reviewer B**: [B.md](B.md) 
+- Rebuttal to **Reviewer 2fMJ**: [2fMJ.md](rebuttal_for_reviewer_2fMJ.md)  
+- Rebuttal to **Reviewer y28Y**: [y28Y.md](rebuttal_for_reviewer_y28Y.md) 
